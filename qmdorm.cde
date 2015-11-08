@@ -1,0 +1,30 @@
+{
+    "author": "kawser",
+    "build": 1,
+    "created": "08/11/2015 01:18:04 PM",
+    "dependency": [
+    ],
+    "description": "Object Realation Mapper for Qt with multiple database support based on QDjango db",
+    "group": "database",
+    "licenses": [
+        "LGPL V3"
+    ],
+    "name": "qmdorm",
+    "package": ".",
+    "qdependency": [
+        "core",
+        "sql"
+    ],
+    "tags": [
+        "db",
+        "database",
+        "orm"
+    ],
+    "updated": "08/11/2015 01:18:04 PM",
+    "urls": {
+        "author": "http://kawser.org",
+        "documentation": "http://git.kawser.org",
+        "download": "http://git.kawser.org"
+    },
+    "version": "1.0.0"
+}
